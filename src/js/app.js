@@ -1,0 +1,1 @@
+const openCamera = require('./openCamera')
